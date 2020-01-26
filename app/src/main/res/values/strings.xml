@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">D&amp;D Dice</string>
+    <string name="button_send">Send</string>
+    <string name="desc">Pic</string>
+    <string name="title_activity_navbar">navbar</string>
+    <string name="attack">Attack</string>
+    <string name="use_ability">Use Ability</string>
+    <string name="cast_spell">Cast Spell</string>
+    <string name="tongue">Native Tongue</string>
+
+
+    <string name="health_set">Set maximum hp</string>
+    <string name="current">Set current hp</string>
+    <string name="done">Done</string>
+    <string name="badHp">Max hp must be an integer between 1 and 999</string>
+    <string name="badLanguage">Language not implemented (yet!)</string>
+
+
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="properties">Properties</string>
+    <string name="damage">Damage</string>
+    <string name="proficiency">Proficiency</string>
+    <string name="modifier">Modifier</string>
+    <string name="confirm">Forge</string>
+
+    <string name="strength">Strength</string>
+    <string name="dexterity">Dexterity</string>
+    <string name="constitution">Constitution</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="wisdom">Wisdom</string>
+    <string name="charisma">Charisma</string>
+    <string name="zero">0</string>
+
+    <string name="profession">Monk</string>
+    <string name="race">Wood Elf</string>
+    <string name="hp">Health</string>
+
+    <string name="attack_type">Attack</string>
+    <string name="ability">Ability</string>
+    <string name="spell">Spell</string>
+
+    <string name="might">With Might</string>
+    <string name="heart">With Heart</string>
+    <string name="cunning">With Cunning</string>
+
+    <string name="die_number">Dice #</string>
+    <string name="die_type">Die Type</string>
+    <string name="modifiers">Modifiers</string>
+    <string name="roll">Roll</string>
+    <string name="results">Results:</string>
+    <string name="none">No Target</string>
+    <string name="success">to Succeed</string>
+
+    <string name="dragonborn">DragonBorn</string>
+    <string name="dwarf">Dwarf</string>
+    <string name="elf">Elf</string>
+    <string name="gnome">Gnome</string>
+    <string name="halfelf">HalfElf</string>
+    <string name="halfling">Halfling</string>
+    <string name="halforc">HalfOrc</string>
+    <string name="human">Human</string>
+    <string name="tiefling">Tiefling</string>
+
+    <string-array name="race_array">
+        <item>@string/dragonborn</item>
+        <item>@string/dwarf</item>
+        <item>@string/elf</item>
+        <item>@string/gnome</item>
+        <item>@string/halfelf</item>
+        <item>@string/halfling</item>
+        <item>@string/halforc</item>
+        <item>@string/human</item>
+        <item>@string/tiefling</item>
+    </string-array>
+
+    <string name="athletics">Athletics</string>
+    <string name="acrobatics">Acrobatics</string>
+    <string name="sleight_of_hand">Slight of Hand</string>
+    <string name="stealth">Stealth</string>
+    <string name="arcana">Arcana</string>
+    <string name="history">History</string>
+    <string name="investigation">Investigation</string>
+    <string name="nature">Nature</string>
+    <string name="religion">Religion</string>
+    <string name="animal_handling">Animal Handling</string>
+    <string name="insight">Insight</string>
+    <string name="medicine">Medicine</string>
+    <string name="perception">Perception</string>
+    <string name="survival">Survival</string>
+    <string name="deception">Deception</string>
+    <string name="intimidation">Intimidation</string>
+    <string name="performance">Performance</string>
+    <string name="persuasion">Persuasion</string>
+
+    <string name="host">Host</string>
+    <string name="search">Seek</string>
+    <string name="party">Party</string>
+
+    <string name="target">Target</string>
+    <string name="ac">AC</string>
+    <string name="level">Level</string>
+    <string name="speed">Speed</string>
+
+
+    <string name="Barbarian">Barbarian</string>
+    <string name="Bard">Bard</string>
+    <string name="Cleric">Cleric</string>
+    <string name="Druid">Druid</string>
+    <string name="Fighter">Fighter</string>
+    <string name="Monk">Monk</string>
+    <string name="Paladin">Paladin</string>
+    <string name="Ranger">Ranger</string>
+    <string name="Rogue">Rogue</string>
+    <string name="Sorcerer">Sorcerer</string>
+    <string name="Warlock">Warlock</string>
+    <string name="Wizard">Wizard</string>
+
+    <string-array name="class_array">
+        <item>@string/Barbarian</item>
+        <item>@string/Bard</item>
+        <item>@string/Cleric</item>
+        <item>@string/Druid</item>
+        <item>@string/Fighter</item>
+        <item>@string/Monk</item>
+        <item>@string/Paladin</item>
+        <item>@string/Ranger</item>
+        <item>@string/Rogue</item>
+        <item>@string/Sorcerer</item>
+        <item>@string/Warlock</item>
+        <item>@string/Wizard</item>
+    </string-array>
+
+
+    <string-array name="die_type_array">
+        <item>D4</item>
+        <item>D6</item>
+        <item>D8</item>
+        <item>D10</item>
+        <item>D12</item>
+        <item>D20</item>
+        <item>D00</item>
+    </string-array>
+
+    <string-array name="die_number_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+    <string-array name="level_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    <string name="title_activity_object_creation">ObjectCreation</string>
+
+</resources>
+

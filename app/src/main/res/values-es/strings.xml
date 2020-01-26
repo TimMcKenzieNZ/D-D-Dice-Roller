@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">D&amp;D_Dice_Roller</string>
+    <string name="button_send">Send</string>
+    <string name="desc">Pic</string>
+    <string name="title_activity_navbar">navbar</string>
+    <string name="attack">Dramm-</string>
+    <string name="use_ability">Iuithi- abilitui</string>
+    <string name="cast_spell">Ista tenkela</string>
+    <string name="title_activity_object_creation">ObjectCreation</string>
+
+
+
+    <string name="strength">Polod</string>
+    <string name="dexterity">Find</string>
+    <string name="intelligence">Bor</string>
+    <string name="constitution">Emel</string>
+    <string name="wisdom">Golodh gelydh</string>
+    <string name="charisma">Lúth</string>
+    <string name="zero">0</string>
+    <string name="tongue">Edhelen</string>
+
+
+    <string name="health_set">Peni- caw cuil</string>
+    <string name="current">Peni hi cuil</string>
+    <string name="done">Minn-</string>
+    <string name="badHp">Caw cuil will n- a gwanod im er a neder hoth a neder tens a neder</string>
+    <string name="badLanguage">Lammen ú- cadu (hi)!</string>
+
+    <string name="athletics">Energui</string>
+    <string name="acrobatics">Cabed</string>
+    <string name="sleight_of_hand">Trickui</string>
+    <string name="stealth">Dolen</string>
+    <string name="arcana">Gúl</string>
+    <string name="history">Historui</string>
+    <string name="investigation">Rad-</string>
+    <string name="nature">Coe</string>
+    <string name="religion">Estel</string>
+    <string name="animal_handling">Radag lammen</string>
+    <string name="insight">Mán hend</string>
+    <string name="medicine">Remedui</string>
+    <string name="perception">Golodh</string>
+    <string name="survival">Bronwe</string>
+    <string name="deception">Treacherui</string>
+    <string name="intimidation">Nifred</string>
+    <string name="performance">Ceri-</string>
+    <string name="persuasion">Man peth</string>
+
+    <string name="host">Hoth</string>
+    <string name="search">Faroth</string>
+    <string name="party">Partui</string>
+
+    <string name="target">Taith</string>
+    <string name="ac">Beri- familui</string>
+    <string name="level">Dór</string>
+    <string name="speed">Horth-</string>
+
+
+
+    <string name="attack_type">Dramm-</string>
+    <string name="ability">Abilitui</string>
+    <string name="spell">Lúth</string>
+
+    <string name="might">With Conn-</string>
+    <string name="heart">With Emel</string>
+    <string name="cunning">With Coru</string>
+
+    <string name="die_number">Gwanod</string>
+    <string name="die_type">Cant-</string>
+    <string name="modifiers">Echedi-</string>
+    <string name="roll">Nor-</string>
+    <string name="results">Meth:</string>
+    <string name="none">Baw Taith</string>
+    <string name="success">Na Gel</string>
+
+    <string name="profession">Randir-</string>
+    <string name="race">Glad edhel edhil</string>
+    <string name="hp">Cuil</string>
+
+    <string name="dragonborn">Lúg núnn</string>
+    <string name="dwarf">Norn</string>
+    <string name="elf">Edhel edhil</string>
+    <string name="gnome">Fairui</string>
+    <string name="halfelf">Pher edhel edhil</string>
+    <string name="halfling">Perian</string>
+    <string name="halforc">Pher orch</string>
+    <string name="human">Firen</string>
+    <string name="tiefling">Raug kin</string>
+
+    <string-array name="race_array">
+        <item>@string/dragonborn</item>
+        <item>@string/dwarf</item>
+        <item>@string/elf</item>
+        <item>@string/gnome</item>
+        <item>@string/halfelf</item>
+        <item>@string/halfling</item>
+        <item>@string/halforc</item>
+        <item>@string/human</item>
+        <item>@string/tiefling</item>
+    </string-array>
+
+    <string name="name">Est-</string>
+    <string name="type">Familui</string>
+    <string name="properties">Sinnarn</string>
+    <string name="damage">Negr-</string>
+    <string name="proficiency">Find</string>
+    <string name="modifier">Galas</string>
+    <string name="confirm">Tangad-</string>
+
+    <string name="Barbarian">Daug</string>
+    <string name="Bard">Lindë</string>
+    <string name="Cleric">Godlui gweg</string>
+    <string name="Druid">Randir</string>
+    <string name="Fighter">Maethor</string>
+    <string name="Monk">Gwanur</string>
+    <string name="Paladin">Rod</string>
+    <string name="Ranger">Feredir</string>
+    <string name="Rogue">Foeg gwege</string>
+    <string name="Sorcerer">Sorcerui</string>
+    <string name="Warlock">Dúr curunir</string>
+    <string name="Wizard">Curunir</string>
+
+    <string-array name="class_array">
+    <item>@string/Barbarian</item>
+    <item>@string/Bard</item>
+    <item>@string/Cleric</item>
+    <item>@string/Druid</item>
+    <item>@string/Fighter</item>
+    <item>@string/Monk</item>
+    <item>@string/Paladin</item>
+    <item>@string/Ranger</item>
+    <item>@string/Rogue</item>
+    <item>@string/Sorcerer</item>
+    <item>@string/Warlock</item>
+    <item>@string/Wizard</item>
+    </string-array>
+
+
+
+    <string-array name="die_type_array">
+        <item>Canad: 4</item>
+        <item>Eneg: 6</item>
+        <item>Toloth: 8</item>
+        <item>Caen: 10</item>
+        <item>Rasad: 12</item>
+        <item>Twentui: 20</item>
+        <item>Hoth: 100</item>
+    </string-array>
+
+    <string-array name="die_number_array">
+        <item>Er: 1</item>
+        <item>Tád: 2</item>
+        <item>Neled: 3</item>
+        <item>Canad: 4</item>
+        <item>Leben: 5</item>
+    </string-array>
+
+    <string-array name="level_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+</resources>
+

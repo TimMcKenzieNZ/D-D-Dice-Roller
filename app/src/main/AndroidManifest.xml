@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.dd_dice_roller">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <uses-feature
+            android:name="android.hardware.sensor.accelerometer"
+            android:required="true"/>
+    <uses-feature
+            android:name="android.software.midi"
+            android:required="true"/>
+
+    <application
+            android:name=".CustomApplication"
+            android:allowBackup="true"
+            android:banner="@drawable/dragon"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@drawable/dragon"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"
+            android:usesCleartextTraffic="true">
+        <activity android:name=".Introduction">
+        </activity>
+        <activity android:name=".PermittedActivity">
+        </activity>
+        <activity android:name=".Preferences">
+        </activity>
+        <activity android:name=".Party">
+        </activity>
+        <activity android:name=".ObjectCreation">
+        </activity>
+
+        <service android:name=".SensorService"/> <!-- android:theme="@style/AppTheme" -->
+        <activity android:name=".navbar">
+
+            <!-- <item name="preferenceTheme">@style/PreferenceThemeOverlay</item> -->
+        </activity>
+        <activity android:name=".statistics">
+        </activity>
+        <activity
+                android:name=".dieRoller_page"
+                android:imeOptions="actionDone"
+                android:inputType="number"
+                android:windowSoftInputMode="adjustPan">
+        </activity>
+        <activity android:name=".ActionList">
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <meta-data
+                android:name="preloaded_fonts"
+                android:resource="@array/preloaded_fonts"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+            android:id="@+id/party_button"
+            android:icon="@drawable/d20"
+            android:title="Settings"
+            app:showAsAction="always" />
+    <item
+            android:id="@+id/settings_button"
+            android:icon="@drawable/ab"
+            android:title="Settings"
+            app:showAsAction="always" />
+
+    <item
+            android:id="@+id/website_button"
+            android:icon="@drawable/dragon"
+            android:title="Settings"
+            app:showAsAction="always" />
+
+</menu>

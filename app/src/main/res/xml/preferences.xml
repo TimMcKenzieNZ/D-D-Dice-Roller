@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreferenceCompat
+            android:key="raceLanguage"
+            android:icon="@drawable/charisma"
+            android:title="@string/tongue"
+            android:id="@+id/languageSwitch"
+            android:summary="Change language to your hero's native tongue"
+            android:defaultValue="true" />
+    <!--<EditTextPreference-->
+            <!--android:defaultValue="3"-->
+            <!--android:icon="@drawable/charisma"-->
+            <!--android:inputType="numberSigned|number|numberDecimal"-->
+            <!--android:key="pickDelay"-->
+            <!--android:selectAllOnFocus="true"-->
+            <!--android:singleLine="true"-->
+            <!--android:summary="Time in seconds until random player selected"-->
+            <!--android:title="@string/tongue"/>-->
+</PreferenceScreen>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">D&amp;D Dice</string>
+    <string name="button_send">Send</string>
+    <string name="desc">Pic</string>
+    <string name="title_activity_navbar">navbar</string>
+    <string name="attack">Kahr</string>
+    <string name="use_ability">Daar</string>
+    <string name="cast_spell">Lordak</string>
+    <string name="tongue">Dharok ekran</string>
+
+
+    <string name="health_set">melkan Anym</string>
+    <string name="current">Vlokon Anym</string>
+    <string name="done">Ovrumm</string>
+    <string name="badHp">melkan Anym tul E volein ein Nar nihu nihu nine</string>
+    <string name="badLanguage">ekran lare (Ur)!</string>
+
+
+
+    <string name="name">Ill</string>
+    <string name="type">Barel</string>
+    <string name="properties">Trihim</string>
+    <string name="damage">Sufferuroz</string>
+    <string name="proficiency">Powrumm</string>
+    <string name="modifier">Melkan</string>
+    <string name="confirm">Ovrumm</string>
+
+    <string name="strength">Makt</string>
+    <string name="dexterity">Kronok</string>
+    <string name="constitution">Blic</string>
+    <string name="intelligence">Hjerneg</string>
+    <string name="wisdom">Vekkeg</string>
+    <string name="charisma">Gansk Sakk</string>
+    <string name="zero">0</string>
+
+    <string name="profession">Monk</string>
+    <string name="race">Wood Elf</string>
+    <string name="hp">Anym</string>
+
+    <string name="attack_type">Kahr</string>
+    <string name="ability">Daar</string>
+    <string name="spell">Lordak</string>
+
+    <string name="might">Med Kanskkemej</string>
+    <string name="heart">Med Hjerd</string>
+    <string name="cunning">Med Cunnuroz</string>
+
+    <string name="die_number">Volein</string>
+    <string name="die_type">Tusape</string>
+    <string name="modifiers">Melkan</string>
+    <string name="roll">Rulg</string>
+    <string name="results">Sluag:</string>
+    <string name="none">Lare Ladeek</string>
+    <string name="success">Oz Winnerumm</string>
+
+    <string name="dragonborn">Drakna</string>
+    <string name="dwarf">Dwed</string>
+    <string name="elf">Elger</string>
+    <string name="gnome">Liorhir Drogan</string>
+    <string name="halfelf">Havalv</string>
+    <string name="halfling">Hildolon</string>
+    <string name="halforc">Valh Okk</string>
+    <string name="human">Drogan</string>
+    <string name="tiefling">Morkk Drogan</string>
+
+    <string-array name="race_array">
+        <item>@string/dragonborn</item>
+        <item>@string/dwarf</item>
+        <item>@string/elf</item>
+        <item>@string/gnome</item>
+        <item>@string/halfelf</item>
+        <item>@string/halfling</item>
+        <item>@string/halforc</item>
+        <item>@string/human</item>
+        <item>@string/tiefling</item>
+    </string-array>
+
+    <string name="athletics">lopakk</string>
+    <string name="acrobatics">Hoamp</string>
+    <string name="sleight_of_hand">Rhadav Karhir</string>
+    <string name="stealth">Rhadav</string>
+    <string name="arcana">Lordak</string>
+    <string name="history">Senidre</string>
+    <string name="investigation">Sisk</string>
+    <string name="nature">Beuroz</string>
+    <string name="religion">Gud</string>
+    <string name="animal_handling">Beistag Karhir</string>
+    <string name="insight">Niden Syke</string>
+    <string name="medicine">Kroppn Va Viage</string>
+    <string name="perception">Vekkeg</string>
+    <string name="survival">Livnag</string>
+    <string name="deception">Aligg</string>
+    <string name="intimidation">Rykt</string>
+    <string name="performance">Hanlig</string>
+    <string name="persuasion">Endrhirg Sinn</string>
+
+    <string name="host">Keeprumm</string>
+    <string name="search">Ground</string>
+    <string name="party">Barel</string>
+
+    <string name="target">Ladeek</string>
+    <string name="ac">Klad Blicontuig</string>
+    <string name="level">Myene</string>
+    <string name="speed">Vlokon</string>
+
+
+
+
+    <string name="Barbarian">Dharok Drogan</string>
+    <string name="Bard">Singrumm</string>
+    <string name="Cleric">Healerumm</string>
+    <string name="Druid">Hefruth Umri</string>
+    <string name="Fighter">Fightrumm</string>
+    <string name="Monk">Kirkden</string>
+    <string name="Paladin">Kirkja Krhigir</string>
+    <string name="Ranger">Rangrumm</string>
+    <string name="Rogue">Vad Umri</string>
+    <string name="Sorcerer">Sorcerrumm</string>
+    <string name="Warlock">Vad Lordak</string>
+    <string name="Wizard">Magri</string>
+
+    <string-array name="class_array">
+        <item>@string/Barbarian</item>
+        <item>@string/Bard</item>
+        <item>@string/Cleric</item>
+        <item>@string/Druid</item>
+        <item>@string/Fighter</item>
+        <item>@string/Monk</item>
+        <item>@string/Paladin</item>
+        <item>@string/Ranger</item>
+        <item>@string/Rogue</item>
+        <item>@string/Sorcerer</item>
+        <item>@string/Warlock</item>
+        <item>@string/Wizard</item>
+    </string-array>
+
+
+    <string-array name="die_type_array">
+        <item>D4</item>
+        <item>D6</item>
+        <item>D8</item>
+        <item>D10</item>
+        <item>D12</item>
+        <item>D20</item>
+        <item>D00</item>
+    </string-array>
+
+    <string-array name="die_number_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+    <string-array name="level_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string name="title_activity_object_creation">ObjectCreation</string>
+
+</resources>
+
